@@ -2,7 +2,7 @@
   "name": "app.nyvex-core.com",
   "version": "1.0.0",
   "description": "Nyvex-Core app source code",
-  "main": "app-framework/code/main.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
