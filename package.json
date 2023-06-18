@@ -1,0 +1,23 @@
+{
+  "name": "app.nyvex-core.com",
+  "version": "1.0.0",
+  "description": "Nyvex-Core app source code",
+  "main": "app-framework/code/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preakrust/app.nyvex-core.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preakrust/app.nyvex-core.com/issues"
+  },
+  "homepage": "https://github.com/Preakrust/app.nyvex-core.com#readme",
+  "devDependencies": {
+    "electron": "^25.1.1"
+  }
+}
